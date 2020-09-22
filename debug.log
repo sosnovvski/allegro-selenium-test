@@ -1,0 +1,10 @@
+[0922/162915.398:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/164635.831:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/165436.905:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/172044.997:ERROR:file_io_win.cc(162)] CreateFile C:\Users\kamso\AppData\Local\Temp\scoped_dir11708_708895977\Crashpad\settings.dat: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0922/172044.998:ERROR:file_io_win.cc(171)] CreateFile C:\Users\kamso\AppData\Local\Temp\scoped_dir11708_708895977\Crashpad\reports\4208ea72-6dcf-4056-8ed7-7b4c46e89afc.dmp: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0922/172045.000:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0922/174517.621:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0922/181551.112:ERROR:file_io_win.cc(162)] CreateFile C:\Users\kamso\AppData\Local\Temp\scoped_dir22980_714347834\Crashpad\settings.dat: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0922/181551.112:ERROR:file_io_win.cc(171)] CreateFile C:\Users\kamso\AppData\Local\Temp\scoped_dir22980_714347834\Crashpad\reports\6fe91a34-6535-4aa4-a861-189d4d237189.dmp: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0922/181551.112:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
